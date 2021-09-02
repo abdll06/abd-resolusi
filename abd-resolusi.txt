@@ -1,3 +1,4 @@
 ABD RESOLUSI
 - konsisten
-membuat platform
+- Membuat platform
+- Membuat WEB
